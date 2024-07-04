@@ -32,7 +32,6 @@ const About = () => {
       </div>
       <div className="flex flex-col justify-center items-start gap-8">
         <h1 data-aos="zoom-in" className="text-red-500 dark:text-white">
-          {" "}
           Who We Are
         </h1>
         <h1
